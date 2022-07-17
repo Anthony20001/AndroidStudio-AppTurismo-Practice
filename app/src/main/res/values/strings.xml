@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Lugares turísticos</string>
+
+    <!-- Menu principal -->
+    <string name="act_txtTexto1">Volcán Barú</string>
+    <string name="act_txtTexto2">Biomuseo</string>
+    <string name="act_txtTexto3">Cerro Punta</string>
+    <string name="act_txtTexto4">Boquete</string>
+    <string name="act_txtTexto5">El Valle de Antón</string>
+    <string name="act_txtTexto6">Punta Chame</string>
+
+    <!--MainActivity2-->
+    <string name="share">Compartir</string>
+    <string name="description">Descripción</string>
+    <string name="send">Llamar</string>
+    <string name="how_to_get">¿Cómo llegar?</string>
+    <string name="website">Sitio web</string>
+
+    <!--============================================================================================-->
+    <string-array name="place0">
+        <item>Volcán Barú</item>
+        <item>Chiriquí</item>
+        <item>El volcán Barú es la elevación más alta de Panamá y es el volcán más alto del sur de América Central, con una altura de 3475 msnm.​ ​ Lo comparten tres distritos: Boquerón, Boquete y Tierras Altas. Según estudios científicos su última erupción tuvo lugar aproximadamente entre hace 400 y 550 años.</item>
+        <item>8.80777778, -82.54277778</item>
+        <item>+507 774-6671</item>
+        <item>http://volcanbaru.com/</item>
+    </string-array>
+
+
+    <string-array name="place1">
+        <item>Biomuseo</item>
+        <item>Panamá</item>
+        <item>El Biomuseo o Museo de la Biodiversidad es un museo de historia natural que se encuentra en la ciudad de Panamá. Su intención es cambiar la manera en que vemos, entendemos y conservamos la naturaleza y su biodiversidad. </item>
+        <item>8.93189, -79.54473</item>
+        <item>+507 830-6700</item>
+        <item>https://biomuseo.org/</item>
+    </string-array>
+
+
+    <string-array name="place2">
+        <item>Cerro Punta</item>
+        <item>Chiriquí</item>
+        <item>Cerro Punta es un corregimiento del distrito de Tierras Altas en la provincia de Chiriquí, República de Panamá. Comprende pequeñas villas ubicadas en el distrito de Tierras Altas, a una altitud entre 1,900 y 2,287 msnm. Debe su nombre a una colina en el punto más alto del pueblo.</item>
+        <item>8.84968, -82.57261</item>
+        <item>+507 771-2062</item>
+        <item>https://cerropunta.net/</item>
+
+    </string-array>
+
+
+    <string-array name="place3">
+        <item>Boquete</item>
+        <item>Chiriquí</item>
+        <item>Boquete es una pequeña ciudad sobre el río Caldera, en el oeste de Panamá. Los montes de Chiriquí que la rodean albergan plantaciones de café y el Parque Nacional del volcán Barú en el oeste. En el parque, lo más destacado es el volcán Barú y el camino Los Quetzales, en el cual se puede observar el quetzal. En el norte de la ciudad, la serpenteante ruta de Bajo Mono ofrece amplias vistas del bosque.</item>
+        <item>8.78024, -82.44136</item>
+        <item>+507 730-9466</item>
+        <item>https://www.minube.com/fotos/boquete-c253066</item>
+    </string-array>
+
+
+    <string-array name="place4">
+        <item>El Valle de Antón</item>
+        <item>Coclé</item>
+        <item>El Valle de Antón es un pueblo central de Panamá. Se ubica en el cráter de un volcán extinto, rodeado de montañas y bosques nubosos. Al norte, el Parque Nacional Cerro Gaital protege 3 cerros: el cerro Gaital, el cerro Pajita y el cerro Caracoral. Sus senderos tienen vista al océano y el parque alberga cientos de especies de aves nativas, incluido el mielero patirrojo, la tángara cabecirroja y el pájaro péndulo.</item>
+        <item>8.6008, -80.1303</item>
+        <item>+507 62912936</item>
+        <item>https://es.tourismpanama.com/lugares-para-visitar/cocle/valle-de-anton/</item>
+    </string-array>
+
+
+    <string-array name="place5">
+        <item>Punta Chame</item>
+        <item>Panamá Oeste</item>
+        <item>Punta Chame tiene una geografía única. Tiene una forma de un dedo y tiene océanos en ambos lados de la proyección de arena blanca. Debido al disposición de la tierra, es un área excepcional para pescar camarones y deportes acuáticos, especialmente navegación y surf.</item>
+        <item>8.64337, -79.70773</item>
+        <item>+507 60125103</item>
+        <item>https://www.minube.com/fotos/chame-c253091</item>
+    </string-array>
+
+    <string name="share_link">!Hola, qué tal¡ ¿Te gustaría conocer lugares increíbles de Panamá?. Descarga la app y ¡Disfruta!. https://play.google.com/store/apps/details?id=com.minube.app</string>
+    <string name="share_whatsapp">https://play.google.com/store/apps/details?id=com.whatsapp</string>
+
+</resources>
